@@ -34,3 +34,10 @@ build/
 .vscode/
 .idea/
 
+.env
+apps/*/.env
+
+venv/
+.venv/
+apps/*/venv/
+apps/*/.venv/
