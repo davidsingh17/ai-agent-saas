@@ -1,0 +1,36 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+.pytype/
+
+# Node/Next.js
+node_modules/
+.next/
+dist/
+*.log
+
+# Docker/Compose
+*.pid
+*.seed
+coverage/
+htmlcov/
+
+# Builds/Artifacts
+build/
+*.zip
+*.tar
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/
+
